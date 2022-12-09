@@ -8,23 +8,15 @@ namespace TesteLocadora.Model.Lista
         public ListaDadosCliente()
         {
             if (ListaCliente == null)
+            {
                 ListaCliente = new List<Cliente>();
-            Cliente cadastroCliente = new Cliente();
-            cadastroCliente.IdCliente = 1;
-            cadastroCliente.NomeCliente = "Cryslaine";
-            cadastroCliente.Cpf = 37586326177;
-            cadastroCliente.Endereço = "Rua Mirante";
-            cadastroCliente.Ativo = true;
+                Cliente cadastroCliente1 = new Cliente(1, "Cryslaine", "37586326177", "Rua Mirante", true);
+                Cliente cadastroCliente2 = new Cliente(2, "Diego", "47186326177", "Rua Mirante", true);
 
-            ListaCliente.Add(cadastroCliente);
-            cadastroCliente = new Cliente();
-            cadastroCliente.IdCliente = 2;
-            cadastroCliente.NomeCliente = "Diego";
-            cadastroCliente.Cpf = 47186326177;
-            cadastroCliente.Endereço = "Rua Mirante";
-            cadastroCliente.Ativo = true;
 
-            ListaCliente.Add(cadastroCliente);
+                ListaCliente.Add(cadastroCliente1);
+                ListaCliente.Add(cadastroCliente2);
+            }
         }
     }
 }

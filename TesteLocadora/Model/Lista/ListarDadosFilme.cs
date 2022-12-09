@@ -9,22 +9,15 @@ namespace TesteLocadora.Model.Lista
         public ListaCadastroFilme()
         {
             if (ListaFilme == null)
+            {
                 ListaFilme = new List<Filme>();
-            Filme cadastrofilme = new Filme();
-            cadastrofilme.IdProduto = 1;
-            cadastrofilme.Nome = "Pantera Negra";
-            cadastrofilme.ClassificacaoIdade = "Maior de 14";
-            cadastrofilme.Ativo = true;
+                Filme filme1 = new Filme(1, "Pantera Negra", true);
+                Filme filme2 = new Filme(2, "Cinderela", true);
 
 
-            ListaFilme.Add(cadastrofilme);
-            cadastrofilme=new Filme();
-            cadastrofilme.IdProduto = 1;
-            cadastrofilme.Nome = "Cinderela";
-            cadastrofilme.ClassificacaoIdade = "Todas as Idades";
-            cadastrofilme.Ativo = true;
-
-            ListaFilme.Add(cadastrofilme);
+                ListaFilme.Add(filme1);
+                ListaFilme.Add(filme2);
+            }
         }
     }
 }

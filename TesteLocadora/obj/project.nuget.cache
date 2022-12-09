@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8EHz6zp8gyRoWavhH24RREufjlaryg10hta+QQXP4+TjtKikSL8QOOfMZ5g4qbfWCsorwpuSs7SbV9sjBFh6lA==",
+  "dgSpecHash": "VuVvsjgwNd0YJxUTroGL9OMW2aa5pWBJ7e7BiLZCuDhpUv6l5z48qVR3U9V0JsreY1Xj6SbI4zhcQwujWDwBrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\crysl\\Cryslaine\\Projetos C#\\TesteLocadora\\TesteLocadora\\TesteLocadora.csproj",
+  "projectFilePath": "C:\\Users\\crysl\\Cryslaine\\Projetos C#\\Locadora Git\\TesteLocadora\\TesteLocadora\\TesteLocadora.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\crysl\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\crysl\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

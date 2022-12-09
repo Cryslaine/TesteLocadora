@@ -66,3 +66,44 @@ C:\Users\crysl\Cryslaine\Projetos C#\TesteLocadora\TesteLocadora\bin\Debug\net6.
 C:\Users\crysl\Cryslaine\Projetos C#\TesteLocadora\TesteLocadora\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\crysl\Cryslaine\Projetos C#\TesteLocadora\TesteLocadora\bin\Debug\net6.0\System.Memory.Data.dll
 C:\Users\crysl\Cryslaine\Projetos C#\TesteLocadora\TesteLocadora\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\bin\Debug\net6.0\appsettings.json
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\bin\Debug\net6.0\TesteLocadora.exe
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\bin\Debug\net6.0\TesteLocadora.deps.json
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\bin\Debug\net6.0\TesteLocadora.runtimeconfig.json
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\bin\Debug\net6.0\TesteLocadora.dll
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\bin\Debug\net6.0\TesteLocadora.pdb
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\bin\Debug\net6.0\Microsoft.Graph.dll
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\bin\Debug\net6.0\Microsoft.Graph.Core.dll
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\obj\Debug\net6.0\TesteLocadora.csproj.AssemblyReference.cache
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\obj\Debug\net6.0\TesteLocadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\obj\Debug\net6.0\TesteLocadora.AssemblyInfoInputs.cache
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\obj\Debug\net6.0\TesteLocadora.AssemblyInfo.cs
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\obj\Debug\net6.0\TesteLocadora.csproj.CoreCompileInputs.cache
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\obj\Debug\net6.0\TesteLocadora.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\obj\Debug\net6.0\TesteLocadora.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\obj\Debug\net6.0\scopedcss\bundle\TesteLocadora.styles.css
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\obj\Debug\net6.0\TesteLocadora.csproj.CopyComplete
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\obj\Debug\net6.0\TesteLocadora.dll
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\obj\Debug\net6.0\refint\TesteLocadora.dll
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\obj\Debug\net6.0\TesteLocadora.pdb
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\obj\Debug\net6.0\TesteLocadora.genruntimeconfig.cache
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\obj\Debug\net6.0\ref\TesteLocadora.dll

@@ -4102,11 +4102,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\crysl\\Cryslaine\\Projetos C#\\TesteLocadora\\TesteLocadora\\TesteLocadora.csproj",
+      "projectUniqueName": "C:\\Users\\crysl\\Cryslaine\\Projetos C#\\Locadora Git\\TesteLocadora\\TesteLocadora\\TesteLocadora.csproj",
       "projectName": "TesteLocadora",
-      "projectPath": "C:\\Users\\crysl\\Cryslaine\\Projetos C#\\TesteLocadora\\TesteLocadora\\TesteLocadora.csproj",
+      "projectPath": "C:\\Users\\crysl\\Cryslaine\\Projetos C#\\Locadora Git\\TesteLocadora\\TesteLocadora\\TesteLocadora.csproj",
       "packagesPath": "C:\\Users\\crysl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\crysl\\Cryslaine\\Projetos C#\\TesteLocadora\\TesteLocadora\\obj\\",
+      "outputPath": "C:\\Users\\crysl\\Cryslaine\\Projetos C#\\Locadora Git\\TesteLocadora\\TesteLocadora\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\crysl\\AppData\\Roaming\\NuGet\\NuGet.Config",

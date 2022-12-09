@@ -9,27 +9,19 @@ namespace TesteLocadora.Model.Lista
         public ListaCadastrolocacao()
         {
             if (Locacao == null)
+            {
                 Locacao = new List<Locacao>();
-            Locacao cadastroLocacao = new Locacao();
-            cadastroLocacao.IdLocacao = 1;
-            cadastroLocacao.NomeCliente = "Cryslaine";
-            cadastroLocacao.Filme = "Pantera Negra";
-            cadastroLocacao.DataRetirada = Convert.ToDateTime("2022/11/21");
-            cadastroLocacao.DataEntrega = Convert.ToDateTime("2022/11/25");
-            cadastroLocacao.Ativo = true;
+                Locacao locacaos1 = new Locacao(1, "Cryslaine", "Pantera Negra", Convert.ToDateTime("2022/11/21"),
+                    Convert.ToDateTime("2022/11/25"), true);
+
+                Locacao locacaos2 = new Locacao(1, "Diego", " Cinderela", Convert.ToDateTime("2022/11/21"),
+                   Convert.ToDateTime("2022/11/25"), true);
 
 
-            Locacao.Add(cadastroLocacao);
-            cadastroLocacao = new Locacao();
-            cadastroLocacao.IdLocacao = 2;
-            cadastroLocacao.NomeCliente = "Diego";
-            cadastroLocacao.Filme = "Cinderela";
-            cadastroLocacao.DataRetirada = Convert.ToDateTime("2022/11/21");
-            cadastroLocacao.DataEntrega = Convert.ToDateTime("2022/11/25");
-            cadastroLocacao.Ativo = true;
+                Locacao.Add(locacaos1);
+                Locacao.Add(locacaos2);
+            }
 
-
-            Locacao.Add(cadastroLocacao);
         }
     }
 }
