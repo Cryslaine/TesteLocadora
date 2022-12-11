@@ -6,9 +6,7 @@ namespace TesteLocadora.Model.Produtos
 
     public class Cliente
     {
-        //[Required(AllowEmptyStrings = false)]
         public int IdCliente { get; private set; }
-        //[Required(AllowEmptyStrings = false)]
         public string NomeCliente { get; private set; }
         public string Cpf { get; private set; }
         public string Endereco { get; private set; }
@@ -16,6 +14,7 @@ namespace TesteLocadora.Model.Produtos
 
         public void setId(int id) { IdCliente = id; }
         public void setAtivo (bool ativo) { Ativo = ativo; }
+
         public Cliente(int idCliente, string nomeCliente, string cpf, string endereco, bool ativo)
         {
            IdCliente = idCliente;

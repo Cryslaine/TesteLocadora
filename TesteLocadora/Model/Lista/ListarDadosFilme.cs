@@ -1,5 +1,4 @@
-﻿using TesteLocadora.Model.Produtos;
-using TesteLocadora.View.Produtos;
+﻿using TesteLocadora.View.Produtos;
 
 namespace TesteLocadora.Model.Lista
 {

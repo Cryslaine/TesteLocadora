@@ -1,4 +1,6 @@
-﻿namespace TesteLocadora.Model.Produtos
+﻿using TesteLocadora.View.Produtos;
+
+namespace TesteLocadora.Model.Produtos
 {
     public class Locacao
     {
@@ -21,6 +23,7 @@
             DataEntrega = dataEntrega;
             Ativo = ativo;
         }
+
     }
 
 }

@@ -14,7 +14,7 @@ namespace TesteLocadora.Model.Lista
                 Locacao locacaos1 = new Locacao(1, "Cryslaine", "Pantera Negra", Convert.ToDateTime("2022/11/21"),
                     Convert.ToDateTime("2022/11/25"), true);
 
-                Locacao locacaos2 = new Locacao(1, "Diego", " Cinderela", Convert.ToDateTime("2022/11/21"),
+                Locacao locacaos2 = new Locacao(2, "Diego", " Cinderela", Convert.ToDateTime("2022/11/21"),
                    Convert.ToDateTime("2022/11/25"), true);
 
 

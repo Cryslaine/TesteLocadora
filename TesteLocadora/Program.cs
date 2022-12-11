@@ -1,7 +1,3 @@
-using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Mvc;
-using TesteLocadora.Model.Lista;
-
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -25,12 +21,5 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
-////app.MapMethods(ListaCadastrolocacao.Template,)
-//app.MapGet("/", () => "Teste API");
-//app.MapGet("/locadora/{code}", ([FromQuery]ListaCadastrolocacao locacao) =>
-//   {
-//       return locacao
-//   }
-//  );
-
+  
 app.Run();
