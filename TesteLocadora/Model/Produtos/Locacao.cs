@@ -1,4 +1,5 @@
-﻿using TesteLocadora.View.Produtos;
+﻿using System.Collections.Specialized;
+using TesteLocadora.View.Produtos;
 
 namespace TesteLocadora.Model.Produtos
 {
@@ -13,6 +14,7 @@ namespace TesteLocadora.Model.Produtos
 
         public void setId(int id) { IdLocacao = id; }
         public void setAtivo(bool ativo) { Ativo = ativo; }
+        
 
         public Locacao (int idLocacao, string nomeCliente, string filme, DateTime dataRetirada, DateTime dataEntrega, bool ativo)
         {

@@ -10,8 +10,8 @@ namespace TesteLocadora.Model.Lista
             if (ListaFilme == null)
             {
                 ListaFilme = new List<Filme>();
-                Filme filme1 = new Filme(1, "Pantera Negra", true);
-                Filme filme2 = new Filme(2, "Cinderela", true);
+                Filme filme1 = new Filme(1, "Pantera Negra",2, true);
+                Filme filme2 = new Filme(2, "Cinderela",1, true);
 
 
                 ListaFilme.Add(filme1);
