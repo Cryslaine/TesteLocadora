@@ -44,9 +44,17 @@
               "target": "Package",
               "version": "[4.48.0, )"
             },
+            "Microsoft.TestPlatform": {
+              "target": "Package",
+              "version": "[17.4.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
             }
           },
           "imports": [

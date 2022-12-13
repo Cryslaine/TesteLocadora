@@ -107,3 +107,7 @@ C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\ob
 C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\obj\Debug\net6.0\TesteLocadora.pdb
 C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\obj\Debug\net6.0\TesteLocadora.genruntimeconfig.cache
 C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\obj\Debug\net6.0\ref\TesteLocadora.dll
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\bin\Debug\net6.0\xunit.abstractions.dll
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\bin\Debug\net6.0\xunit.assert.dll
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\bin\Debug\net6.0\xunit.core.dll
+C:\Users\crysl\Cryslaine\Projetos C#\Locadora Git\TesteLocadora\TesteLocadora\bin\Debug\net6.0\xunit.execution.dotnet.dll

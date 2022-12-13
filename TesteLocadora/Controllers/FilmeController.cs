@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿ using Microsoft.AspNetCore.Mvc;
 using TesteLocadora.Model;
 using TesteLocadora.Model.Lista;
 using TesteLocadora.View.Produtos;
